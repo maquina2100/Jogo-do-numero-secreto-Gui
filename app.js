@@ -7,7 +7,7 @@
 //precisa de parenteses para ser criada uma função no HTML
 
 let numerosSorteados = [];
-let numeroMaximo = 1000;
+let numeroMaximo = 100;
 let numeroSecreto = gerarNumeroAleatorio(); 
 let tentativas = 1;
 
